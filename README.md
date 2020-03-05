@@ -1,0 +1,7 @@
+<h3><span>作业内容</span></h3>
+<div class="markdown-body markdown-init "><h2><!-- react-text: 210 -->实现 Fibonacci 数列，要求(以Java为例)如下<!-- /react-text --></h2><ul><li><!-- react-text: 213 -->不要提交依赖包等文件<!-- /react-text --></li><li><!-- react-text: 215 -->分两次提交，第一次提交README.md，第二次提交代码<!-- /react-text --></li><li><!-- react-text: 217 -->函数名为 Fibonacci.of()<!-- /react-text --></li><li><!-- react-text: 219 -->of是一个静态方法，入参是int，返回值是int<!-- /react-text --></li><li><!-- react-text: 221 -->参数从1开始，各参考值如下<!-- /react-text --></li></ul><pre><code class="hljs coffeescript">Fibonacci.<span class="hljs-keyword">of</span>(<span class="hljs-number">1</span>) == <span class="hljs-number">1</span>
+Fibonacci.<span class="hljs-keyword">of</span>(<span class="hljs-number">2</span>) == <span class="hljs-number">1</span>
+Fibonacci.<span class="hljs-keyword">of</span>(<span class="hljs-number">3</span>) == <span class="hljs-number">2</span>
+Fibonacci.<span class="hljs-keyword">of</span>(<span class="hljs-number">4</span>) == <span class="hljs-number">3</span>
+Fibonacci.<span class="hljs-keyword">of</span>(<span class="hljs-number">5</span>) == <span class="hljs-number">5</span>
+...</code></pre><ul><li><!-- react-text: 226 -->在main函数用循环打印1~200的Fibonacci数列<!-- /react-text --></li><li><!-- react-text: 228 -->提交到自己的github<!-- /react-text --></li><li><!-- react-text: 230 -->将作业的github地址写在答案中<!-- /react-text --></li></ul></div>
